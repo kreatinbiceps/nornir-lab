@@ -1,0 +1,13 @@
+## Nornir Groups File
+---
+CSR_Routers:
+
+  connection_options:
+      netmiko:
+          extras:
+              secret: eve
+
+  data:
+    ntp:
+      servers:
+        - 1.1.1.1
