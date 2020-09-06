@@ -1,2 +1,2 @@
 # nornir-lab
-Learning Nornir
+Learning Nornir w/ Eve-NG
